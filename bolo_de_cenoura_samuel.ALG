@@ -1,8 +1,8 @@
 Algoritmo "Bolo"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// DescriÃ§Ã£o   : Programa feito para determinar o preÃ§o de um bolo e de sua cobertura
+// Autor(a)    : Samuel Fuentes Michels
 // Data atual  : 12/08/2024
 Var
 preco_oleo, preco_ovo, preco_cenoura, acucar, farinha, fermento,chocolate,manteiga,total1, total2: real
