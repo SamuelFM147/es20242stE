@@ -1,8 +1,8 @@
-Algoritmo "Ex0"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "Ex09"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// DescriÃ§Ã£o   : Faz a leitura de trÃªs nÃºmeros e calcula a fÃ³rmula D = A + C - B
+// Autor(a)    : Samuel Fuentes Michels
 // Data atual  : 13/08/2024
 Var
        a,b,c: inteiro
