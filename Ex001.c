@@ -8,12 +8,12 @@ int divisivel(int num){
 		}
 		else{
 			printf("o numero nao e divisivel po 4");
-		}
+		}*/
 	}
 	else{
 		printf("O numero %d nao tem 3 digitos ",num);
-	}*/
-	}//num >= 100 && num <= 999?return(num%4 == 0): returnprintf("O numero %d nao tem 3 digitos",num);
+	}
+	//num >= 100 && num <= 999?return(num%4 == 0): returnprintf("O numero %d nao tem 3 digitos",num);
 }
 
 
